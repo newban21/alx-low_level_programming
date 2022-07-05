@@ -4,6 +4,7 @@
 *
 * Return: 0
 */
+void print_alphabet_x10(void)
 int j;
 int x;
 for (x = 0; x < 9; x++)
